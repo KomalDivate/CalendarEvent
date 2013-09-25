@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalendarEvent</string>
+    <string name="empty"></string>
+    <string name="button_text">Create event</string>
+    <string name="time_format">h:mm a</string>
+
+</resources>
